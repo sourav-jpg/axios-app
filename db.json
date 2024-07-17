@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Sourav",
+      "email": "souravpadmaraj6@gmail.com",
+      "phone": 9110263636
+    },
+    {
+      "id": "2",
+      "name": "Latha",
+      "email": "lathavb@gmail.com",
+      "phone": 8951895459
+    },
+    {
+      "id": "3",
+      "name": "Padmaraju",
+      "email": "padmaraj99@gmail.com",
+      "phone": 8867467477
+    },
+    {
+      "id": "41af",
+      "name": "sanjana",
+      "email": "sanjana@gmail.com",
+      "phone": "12345678"
+    },
+    {
+      "id": "b38e",
+      "name": "Sourav P",
+      "email": "souravpadmaraj6@gmail.com",
+      "phone": "467898765434567890"
+    },
+    {
+      "id": "cfbf",
+      "name": "kaushik",
+      "email": "kau@gmail.com",
+      "phone": "9876543456789"
+    },
+    {
+      "id": "681e",
+      "name": "bob",
+      "email": "bob@gmail.com",
+      "phone": "98765456789"
+    },
+    {
+      "id": "e63d",
+      "name": "max",
+      "email": "max@gmail.com",
+      "phone": "283746547389"
+    },
+    {
+      "id": "dde1",
+      "name": "john",
+      "email": "john@gmail.com",
+      "phone": "88767663"
+    }
+  ]
+}
